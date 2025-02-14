@@ -1,7 +1,8 @@
+/*
+ * Problem link - https://leetcode.com/problems/maximum-average-subarray-i/submissions/1542665751/
+ */
 public class MaximumAverageSubArray {
     /*
-     * Problem link -
-     * https://leetcode.com/problems/maximum-average-subarray-i/description/
      * tc - O(n)
      * sc - O(1)
      */

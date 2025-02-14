@@ -1,5 +1,5 @@
 /*
- * Problem link - https://leetcode.com/problems/maximum-average-subarray-i/submissions/1542665751/
+ * Problem link - https://leetcode.com/problems/maximum-average-subarray-i/description/
  */
 public class MaximumAverageSubArray {
     /*

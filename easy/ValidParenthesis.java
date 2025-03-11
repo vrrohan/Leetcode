@@ -1,15 +1,15 @@
 import java.util.Stack;
 
 /*
- * Problem link - https://leetcode.com/problems/valid-parentheses/description/
+ * Leetcode Problem link - https://leetcode.com/problems/valid-parentheses/description/
  */
 public class ValidParenthesis {
 
-    /*
-     * tc - O(n)
-     * sc - O(n)
-     */
-    public boolean isValid(String s) {
+	/*
+	 * tc - O(n)
+	 * sc - O(n)
+	 */
+	public boolean isValid(String s) {
         if(s.length()==1) return false;
 		else {
 			boolean isValidParanthesis = true;
